@@ -1,0 +1,66 @@
+body {
+    padding: 0;
+    margin: 0;
+     background: url(/img/1616522875_16-p-ochen-krasivii-fon-18.pnj.jpg) no-repeat center top / cover;
+}
+h1 {
+    color: #3986c3;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 1000;
+    
+}
+header {
+    background: white;
+    margin: 0 auto;
+    width: 950px;
+  border: 20px solid #adf2f7;
+}
+
+.container {
+    background: url(/img/gadalka.gif) no-repeat center top / cover;
+    margin: 0 auto;
+ padding: 200 px;
+    width: 700px;
+    height: 700px;
+}
+h2 {
+    font-family: Arial, sans-serif;
+        font-style: italic;
+    text-align: center;
+    font-size: 20px;
+    
+}   
+.container2 {
+    margin: 0;
+    position: absolute;
+    top: 77%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+        
+}
+input {
+     margin: 0;
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+
+p {
+   margin: 0;
+width: 300px;
+    position: absolute;
+    top: 95%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    font-family: Arial, sans-serif;
+        font-style: italic;
+    text-align: center;
+    font-size: 20px;
+    background: #adf2f7;
+    border: 20px solid #adf2f7;
+}
